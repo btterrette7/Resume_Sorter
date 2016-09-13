@@ -11,7 +11,7 @@
     tools:context="com.example.t_ste.resumesorter.MainActivity">
 
     <TextView
-        android:text="Hello World!"
+        android:text= "@string/MainActivityName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
